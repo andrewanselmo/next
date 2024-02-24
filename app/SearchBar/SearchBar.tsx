@@ -42,10 +42,18 @@ useEffect(fetchAPIData, [searchValue])
 
     
     // useEffect(fetchAPIData, [])
-    return <div>
+    return( 
 
-        <input style = {searchStyle} type ="text" value = {searchValue} onChange = {handleInputChange}/>
-     
-        <div style = {{display:"flex", flexFlow:"row wrap"}}>{filteredProducts}</div>
-    </div>
+    
+        <div>
+
+            <h2> search</h2>
+            <input style = {searchStyle} type ="text" value = {searchValue} onChange = {handleInputChange} />
+        
+            <div style = {{display:"flex", flexFlow:"row wrap"}}>{filteredProducts}</div>
+        </div>
+
+    
+    
+    )
 }
