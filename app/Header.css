@@ -18,3 +18,8 @@
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: aliceblue;
   }
+
+  #link{
+    padding: 70px;
+    font-size: 30px;
+  }
