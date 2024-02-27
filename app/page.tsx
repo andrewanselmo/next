@@ -16,6 +16,5 @@ export default function Page(){
     <Header/>
      <SearchBar/>
 
-     <a id = "link" href ="https://github.com/andrewanselmo/next" > Github Repo </a> 
     </div>
 }
