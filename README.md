@@ -8,8 +8,8 @@ This web applicaiton is a low level eccommerce website that lets users view and 
 - Made page dynamic with React Hooks.
 
 # RUNNING 
-- Run '''npm install''' in the terminal to ensure all depedencies are there.
-- Run '''npm run dev''' in the terminal and you will find the project hosted locally
+- Run ```npm install``` in the terminal to ensure all depedencies are there.
+- Run ```npm run dev``` in the terminal and you will find the project hosted locally
 
 # VIDEO DEMO
 https://youtu.be/_qnpSRaFIpg
