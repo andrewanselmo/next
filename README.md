@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-This web applicaiton is a low level eccommerce website that lets users view and search for specific items.
+This web applicaiton is a low level ecommerce website that lets users view and search for specific items.
 
 # OUTCOMES 
 - Gained experience working with API's to render the items on the page.
